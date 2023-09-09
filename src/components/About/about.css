@@ -1,0 +1,70 @@
+/* CSS for the "About" page */
+.about-container {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .about-header {
+    text-align: center;
+  }
+  
+  .about-tagline {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .section h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .section p {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  /* CSS for the team member section */
+  .author_image img {
+    max-width: 100%;
+  }
+  
+  .description {
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .description h5 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .description span {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .description ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .description ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .description a {
+    text-decoration: none;
+    color: #007bff; /* Link color */
+  }
+  
+  /* Add more CSS styles as needed */
+  

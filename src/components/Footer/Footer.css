@@ -1,0 +1,8 @@
+.footer {
+    display: none;
+  }
+  
+  /* Show the first footer when it has the "visible" class */
+  .footer.visible {
+    display: block;
+  }

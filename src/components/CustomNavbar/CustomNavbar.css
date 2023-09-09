@@ -1,0 +1,44 @@
+ .custom-navbar {
+    padding: 10px 0;
+    top: 0;
+    background-color: #18151f;
+    position: sticky;
+    opacity: 1;
+    z-index: 99;
+    transition: opacity 0.5s ease;
+    transition: background-color 0.3s ease;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+  }
+  
+  .home img {
+    margin-left: 10px;
+  }
+  
+  .nav-items {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px; 
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .nav-link:hover {
+    color: red;
+  }
+   
+  .custom-navbar.scrolled {
+    background-color: rgba(0, 0, 0, 0.7) !important; /* Adjust the opacity and color as needed */
+  }
+  .navbar-text {
+    color: white; /* Set your desired text color */
+  }
+  

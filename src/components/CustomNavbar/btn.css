@@ -1,0 +1,19 @@
+.btn {
+    background: #d70404;
+    border-radius: 0;
+    
+    font-size: 15px;
+    font-family: 'Roboto';
+    padding: 4px 10px;
+    cursor: pointer;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    text-decoration: none !important;
+    outline: 0 !important;
+  }

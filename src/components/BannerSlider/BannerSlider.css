@@ -1,0 +1,17 @@
+.banner-slider-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 800px; /* Adjust the height as needed */
+}
+.banner-slider-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* This will ensure the image covers the entire space without stretching */
+}
+
+.carousel .control-prev,
+.carousel .control-next {
+    bottom: 1%;
+    /* Adjust this value as needed */
+}
